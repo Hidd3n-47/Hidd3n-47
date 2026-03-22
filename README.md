@@ -26,7 +26,7 @@ Hi 👋 My name is Christian Lewis-Monto
 </td>
 </table>
 
-<b>My GitHub Stats</b>
+<center><h1>My GitHub Stats</h1></center>
 <table border="1" align="center">
 	<tbody>
 		<tr border="0">
@@ -42,7 +42,7 @@ Hi 👋 My name is Christian Lewis-Monto
 	</tbody>
 </table>
 
-<b>Top Repositories</b>
+<center><h1>Top Repositories</h1></center>
 
 <div width="100%" align="center">
   <a href="https://github.com/Hidd3n-47/ScarletEngine" align="center">
