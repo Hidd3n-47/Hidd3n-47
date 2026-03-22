@@ -45,16 +45,15 @@ Hi 👋 My name is Christian Lewis-Monto
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-	<a href="https://github.com/Hidd3n-47/ScarletEngine" align="left">
-		<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hidd3n-	47&repo=ScarletEngine&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /> 
-	</a>
+  <a href="https://github.com/Hidd3n-47/ScarletEngine" align="center">
+    <img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hidd3n-47&repo=ScarletEngine&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Hidd3n-47/d2e" align="center">
+    <img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hidd3n-47&repo=d2e&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Hidd3n-47/Shadow" align="center">
+    <img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hidd3n-47&repo=Shadow&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" />
+  </a>
 </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 <img src="https://raw.githubusercontent.com/Hidd3n-47/Hidd3n-47/output/snake.svg" alt="Snake Animation" />
